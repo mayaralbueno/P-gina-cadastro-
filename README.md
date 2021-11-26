@@ -24,5 +24,5 @@
         
       
  <p align="center">
-<img src="https://media.giphy.com/media/WmShth2TYaty7I7hrV/giphy.gif" style="width: 65%;">
+<img src="https://media.giphy.com/media/encUu24JFS7UgBhNP8/giphy.gif" style="width: 65%;">
 </p>
